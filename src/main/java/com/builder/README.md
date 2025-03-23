@@ -135,3 +135,10 @@ How the builder pattern works is simple. You set the property you want and, it r
 So something goes in and something comes out.
 
 This is a setup for a simple builder pattern
+
+## Credits 
+
+### Shout to Telukso for the amazing content
+
+1. [Builder Design Pattern Overview](https://youtu.be/KbIdk5BRn0w?list=PLsyeobzWxl7r2ZX1fl-7CKnayxHJA_1ol)
+2. [Builder Design Pattern in Java](https://youtu.be/k4EkJgY9P4c?list=PLsyeobzWxl7r2ZX1fl-7CKnayxHJA_1ol)
